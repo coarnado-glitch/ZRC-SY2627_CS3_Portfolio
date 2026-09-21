@@ -1,4 +1,4 @@
-ass AssignmentSubmission:
+class AssignmentSubmission:
     def __init__(self, student_name, student_id, assignment_title, due_date):
         self.student_name = student_name
         self.student_id = student_id
